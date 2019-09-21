@@ -1,1253 +1,195 @@
+#EXTM3U
+#EXTINF:0,Channel 1
 #EXTM3U ZalTV
+#EXTINF:0,Channel 2
 #EXTINF:-1,NET TV
-http://iya.mba:8900/live/resom/resom/24.m3u
+#EXTINF:0,Channel 3
+http://iya.mba:8900/live/resom/resom/24.ts
+#EXTINF:0,Channel 4
 #EXTINF:-1,NET TV FHD
-http://iya.mba:8900/live/resom/resom/78.m3u
+#EXTINF:0,Channel 5
+http://iya.mba:8900/live/resom/resom/78.ts
+#EXTINF:0,Channel 6
 #EXTINF:-1,TVRI
-http://iya.mba:8900/live/resom/resom/36.m3u
+#EXTINF:0,Channel 7
+http://iya.mba:8900/live/resom/resom/36.ts
+#EXTINF:0,Channel 8
 #EXTINF:-1,Trans TV
-http://iya.mba:8900/live/resom/resom/34.m3u
+#EXTINF:0,Channel 9
+http://iya.mba:8900/live/resom/resom/34.ts
+#EXTINF:0,Channel 10
 #EXTINF:-1,Trans TV FHD
-http://iya.mba:8900/live/resom/resom/929.m3u
+#EXTINF:0,Channel 11
+http://iya.mba:8900/live/resom/resom/929.ts
+#EXTINF:0,Channel 12
 #EXTINF:-1,Trans 7
-http://iya.mba:8900/live/resom/resom/35.m3u8
+#EXTINF:0,Channel 13
+http://iya.mba:8900/live/resom/resom/35.ts
+#EXTINF:0,Channel 14
 #EXTINF:-1,Trans 7 FHD
-http://iya.mba:8900/live/resom/resom/930.m3u8
+#EXTINF:0,Channel 15
+http://iya.mba:8900/live/resom/resom/930.ts
+#EXTINF:0,Channel 16
 #EXTINF:-1,SCTV
-http://iya.mba:8900/live/resom/resom/32.m3u8
+#EXTINF:0,Channel 17
+http://iya.mba:8900/live/resom/resom/32.ts
+#EXTINF:0,Channel 18
 #EXTINF:-1,SCTV FHD
-http://iya.mba:8900/live/resom/resom/931.m3u8
+#EXTINF:0,Channel 19
+http://iya.mba:8900/live/resom/resom/931.ts
+#EXTINF:0,Channel 20
 #EXTINF:-1,Indosiar
-http://iya.mba:8900/live/resom/resom/1845.m3u8
+#EXTINF:0,Channel 21
+http://iya.mba:8900/live/resom/resom/1845.ts
+#EXTINF:0,Channel 22
 #EXTINF:-1,Indosiar HD
+#EXTINF:0,Channel 23
 http://iya.mba:8900/live/resom/resom/33.ts
+#EXTINF:0,Channel 24
 #EXTINF:-1,O Channel
+#EXTINF:0,Channel 25
 http://iya.mba:8900/live/resom/resom/1727.ts
+#EXTINF:0,Channel 26
 #EXTINF:-1,Liga 1 Indonesia
+#EXTINF:0,Channel 27
 http://iya.mba:8900/live/resom/resom/1185.ts
+#EXTINF:0,Channel 28
 #EXTINF:-1,Liga 1 Indonesia 2
+#EXTINF:0,Channel 29
 http://iya.mba:8900/live/resom/resom/1719.ts
+#EXTINF:0,Channel 30
 #EXTINF:-1,ANTV
-http://iya.mba:8900/live/resom/resom/31.m3u8
+#EXTINF:0,Channel 31
+http://iya.mba:8900/live/resom/resom/31.ts
+#EXTINF:0,Channel 32
 #EXTINF:-1,Channel News Asia
-http://iya.mba:8900/live/resom/resom/1191.m3u8
+#EXTINF:0,Channel 33
+http://iya.mba:8900/live/resom/resom/1191.ts
+#EXTINF:0,Channel 34
 #EXTINF:-1,CNBC Indonesia
-http://iya.mba:8900/live/resom/resom/1512.m3u8
+#EXTINF:0,Channel 35
+http://iya.mba:8900/live/resom/resom/1512.ts
+#EXTINF:0,Channel 36
 #EXTINF:-1,CNN Indonesia
+#EXTINF:0,Channel 37
 http://iya.mba:8900/live/resom/resom/44.ts
+#EXTINF:0,Channel 38
 #EXTINF:-1,CNN Int
+#EXTINF:0,Channel 39
 http://iya.mba:8900/live/resom/resom/1200.ts
+#EXTINF:0,Channel 40
 #EXTINF:-1,Berita Satu News
+#EXTINF:0,Channel 41
 http://iya.mba:8900/live/resom/resom/136.ts
+#EXTINF:0,Channel 42
 #EXTINF:-1,DW TV Asia
+#EXTINF:0,Channel 43
 http://iya.mba:8900/live/resom/resom/205.ts
+#EXTINF:0,Channel 44
 #EXTINF:-1,TV ONE
+#EXTINF:0,Channel 45
 http://iya.mba:8900/live/resom/resom/29.ts
+#EXTINF:0,Channel 46
 #EXTINF:-1,Kompas TV
+#EXTINF:0,Channel 47
 http://iya.mba:8900/live/resom/resom/30.ts
+#EXTINF:0,Channel 48
 #EXTINF:-1,Metro TV FHD
+#EXTINF:0,Channel 49
 http://iya.mba:8900/live/resom/resom/1697.ts
+#EXTINF:0,Channel 50
 #EXTINF:-1,Metro TV
+#EXTINF:0,Channel 51
 http://iya.mba:8900/live/resom/resom/52.ts
+#EXTINF:0,Channel 52
 #EXTINF:-1,Bandung TV
+#EXTINF:0,Channel 53
 http://iya.mba:8900/live/resom/resom/1765.ts
+#EXTINF:0,Channel 54
 #EXTINF:-1,Insert
+#EXTINF:0,Channel 55
 http://iya.mba:8900/live/resom/resom/1763.ts
+#EXTINF:0,Channel 56
 #EXTINF:-1,Bloomberg TV Asia
+#EXTINF:0,Channel 57
 http://iya.mba:8900/live/resom/resom/137.ts
+#EXTINF:0,Channel 58
 #EXTINF:-1,Rajawali TV
+#EXTINF:0,Channel 59
 http://iya.mba:8900/live/resom/resom/37.ts
+#EXTINF:0,Channel 60
 #EXTINF:-1,Spacetoon
+#EXTINF:0,Channel 61
 http://iya.mba:8900/live/resom/resom/1541.ts
+#EXTINF:0,Channel 62
 #EXTINF:-1,Baby First
+#EXTINF:0,Channel 63
 http://iya.mba:8900/live/resom/resom/1204.ts
+#EXTINF:0,Channel 64
 #EXTINF:-1,Dunia Anak
+#EXTINF:0,Channel 65
 http://iya.mba:8900/live/resom/resom/907.ts
+#EXTINF:0,Channel 66
 #EXTINF:-1,Toonmax
+#EXTINF:0,Channel 67
 http://iya.mba:8900/live/resom/resom/1116.ts
+#EXTINF:0,Channel 68
 #EXTINF:-1,Disney XD
+#EXTINF:0,Channel 69
 http://iya.mba:8900/live/resom/resom/104.ts
+#EXTINF:0,Channel 70
 #EXTINF:-1,Disney UK
+#EXTINF:0,Channel 71
 http://iya.mba:8900/live/resom/resom/2336.ts
+#EXTINF:0,Channel 72
 #EXTINF:-1,Duck TV
+#EXTINF:0,Channel 73
 http://iya.mba:8900/live/resom/resom/1854.ts
+#EXTINF:0,Channel 74
 #EXTINF:-1,Astro Ceria
+#EXTINF:0,Channel 75
 http://iya.mba:8900/live/resom/resom/2239.ts
+#EXTINF:0,Channel 76
 #EXTINF:-1,Astro TVIQ
+#EXTINF:0,Channel 77
 http://iya.mba:8900/live/resom/resom/2238.ts
+#EXTINF:0,Channel 78
 #EXTINF:-1,Nick Toons
+#EXTINF:0,Channel 79
 http://iya.mba:8900/live/resom/resom/335.ts
+#EXTINF:0,Channel 80
 #EXTINF:-1,Nickelodeon ID
+#EXTINF:0,Channel 81
 http://iya.mba:8900/live/resom/resom/962.ts
+#EXTINF:0,Channel 82
 #EXTINF:-1,Nick Jr ID
+#EXTINF:0,Channel 83
 http://iya.mba:8900/live/resom/resom/522.ts
+#EXTINF:0,Channel 84
 #EXTINF:-1,Dream Works HD
+#EXTINF:0,Channel 85
 http://iya.mba:8900/live/resom/resom/936.ts
+#EXTINF:0,Channel 86
 #EXTINF:-1,Disney Channel ID
+#EXTINF:0,Channel 87
 http://iya.mba:8900/live/resom/resom/306.ts
+#EXTINF:0,Channel 88
 #EXTINF:-1,Cartoon Network ID HD
+#EXTINF:0,Channel 89
 http://iya.mba:8900/live/resom/resom/680.ts
+#EXTINF:0,Channel 90
 #EXTINF:-1,Cartoon Network ID FHD
+#EXTINF:0,Channel 91
 http://iya.mba:8900/live/resom/resom/1532.ts
+#EXTINF:0,Channel 92
 #EXTINF:-1,Boomerang HD
+#EXTINF:0,Channel 93
 http://iya.mba:8900/live/resom/resom/305.ts
+#EXTINF:0,Channel 94
 #EXTINF:-1,Baby TV
+#EXTINF:0,Channel 95
 http://iya.mba:8900/live/resom/resom/296.ts
+#EXTINF:0,Channel 96
 #EXTINF:-1,Nick Jr 2
+#EXTINF:0,Channel 97
 http://iya.mba:8900/live/resom/resom/341.ts
-#EXTINF:-1,Disney Junior
-http://iya.mba:8900/live/resom/resom/213.ts
-#EXTINF:-1,Reformed 21 HD
-http://iya.mba:8900/live/resom/resom/1208.ts
-#EXTINF:-1,Life
-http://iya.mba:8900/live/resom/resom/1772.ts
-#EXTINF:-1,Jak TV
-http://iya.mba:8900/live/resom/resom/1210.ts
-#EXTINF:-1,DAAI TV
-http://iya.mba:8900/live/resom/resom/21.ts
-#EXTINF:-1,TV Mu
-http://iya.mba:8900/live/resom/resom/1726.ts
-#EXTINF:-1,Makkah TV
-http://iya.mba:8900/live/resom/resom/297.ts
-#EXTINF:-1,Madina TV
-http://iya.mba:8900/live/resom/resom/912.ts
-#EXTINF:-1,Akhyar TV
-http://iya.mba:8900/live/resom/resom/941.ts
-#EXTINF:-1,Ashiil TV
-http://iya.mba:8900/live/resom/resom/1503.ts
-#EXTINF:-1,SurauTV
-http://iya.mba:8900/live/resom/resom/2403.ts
-#EXTINF:-1,Asjawa TV
-http://iya.mba:8900/live/resom/resom/944.ts
-#EXTINF:-1,TV1
-http://iya.mba:8900/live/resom/resom/2262.ts
-#EXTINF:-1,TV2
-http://iya.mba:8900/live/resom/resom/2263.ts
-#EXTINF:-1,TV3
-http://iya.mba:8900/live/resom/resom/2264.ts
-#EXTINF:-1,TV8
-http://iya.mba:8900/live/resom/resom/2333.ts
-#EXTINF:-1,TV9
-http://iya.mba:8900/live/resom/resom/950.ts
-#EXTINF:-1,Wesal TV
-http://iya.mba:8900/live/resom/resom/951.ts
-#EXTINF:-1,Bali TV
-http://iya.mba:8900/live/resom/resom/889.ts
-#EXTINF:-1,Dangdutz
-http://iya.mba:8900/live/resom/resom/883.ts
-#EXTINF:-1,T Music
-http://iya.mba:8900/live/resom/resom/905.ts
-#EXTINF:-1,KitaNesia
-http://iya.mba:8900/live/resom/resom/607.ts
-#EXTINF:-1,Nu Channel
-http://iya.mba:8900/live/resom/resom/611.ts
-#EXTINF:-1,Saling Sapa
-http://iya.mba:8900/live/resom/resom/606.ts
-#EXTINF:-1,Rodja TV
-http://iya.mba:8900/live/resom/resom/843.ts
-#EXTINF:-1,JTV
-http://iya.mba:8900/live/resom/resom/135.ts
-#EXTINF:-1,Dunia Lain
-http://iya.mba:8900/live/resom/resom/910.ts
-#EXTINF:-1,Sinema Indonesia
-http://iya.mba:8900/live/resom/resom/1698.ts
-#EXTINF:-1,J'Go HD
-http://iya.mba:8900/live/resom/resom/1487.ts
-#EXTINF:-1,Bioskop Indonesia
-http://iya.mba:8900/live/resom/resom/908.ts
-#EXTINF:-1,Flik FHD
-http://iya.mba:8900/live/resom/resom/933.ts
-#EXTINF:-1,Flik HD
-http://iya.mba:8900/live/resom/resom/1497.ts
-#EXTINF:-1,HITS
-http://iya.mba:8900/live/resom/resom/1195.ts
-#EXTINF:-1,Hits Movie
-http://iya.mba:8900/live/resom/resom/957.ts
-#EXTINF:-1,SBS IN HD
-http://iya.mba:8900/live/resom/resom/1202.ts
-#EXTINF:-1,KBS World
-http://iya.mba:8900/live/resom/resom/1521.ts
-#EXTINF:-1,Cinema World
-http://iya.mba:8900/live/resom/resom/1194.ts
-#EXTINF:-1,Star Chinese Movies Legend
-http://iya.mba:8900/live/resom/resom/1859.ts
-#EXTINF:-1,CCM
-http://iya.mba:8900/live/resom/resom/2118.ts
-#EXTINF:-1,Premiere
-http://iya.mba:8900/live/resom/resom/2137.ts
-#EXTINF:-1,FOX Movies HD
-http://iya.mba:8900/live/resom/resom/98.ts
-#EXTINF:-1,FOX Movies HD Backup
-http://iya.mba:8900/live/resom/resom/978.ts
-#EXTINF:-1,FOX Movies FHD
-http://iya.mba:8900/live/resom/resom/1205.ts
-#EXTINF:-1,FOX Action Movies HD
-http://iya.mba:8900/live/resom/resom/99.ts
-#EXTINF:-1,FOX Action Movies HD Backup
-http://iya.mba:8900/live/resom/resom/979.ts
-#EXTINF:-1,FOX Action Movies FHD
-http://iya.mba:8900/live/resom/resom/1478.ts
-#EXTINF:-1,FOX Action Movies
-http://iya.mba:8900/live/resom/resom/1125.ts
-#EXTINF:-1,FOX Family Movies ID
-http://iya.mba:8900/live/resom/resom/100.ts
-#EXTINF:-1,FOX Family Movies EN
-http://iya.mba:8900/live/resom/resom/1493.ts
-#EXTINF:-1,FOX Crime HD
-http://iya.mba:8900/live/resom/resom/763.ts
-#EXTINF:-1,FOX Crime HD Backup
-http://iya.mba:8900/live/resom/resom/1483.ts
-#EXTINF:-1,FOX Life HD
-http://iya.mba:8900/live/resom/resom/94.ts
-#EXTINF:-1,FOX HD
-http://iya.mba:8900/live/resom/resom/95.ts
-#EXTINF:-1,FX HD
-http://iya.mba:8900/live/resom/resom/776.ts
-#EXTINF:-1,Diva HD
-http://iya.mba:8900/live/resom/resom/841.ts
-#EXTINF:-1,HBO SD
-http://iya.mba:8900/live/resom/resom/2422.ts
-#EXTINF:-1,HBO HD
-http://iya.mba:8900/live/resom/resom/210.ts
-#EXTINF:-1,HBO FHD
-http://iya.mba:8900/live/resom/resom/1496.ts
-#EXTINF:-1,HBO Hits HD
-http://iya.mba:8900/live/resom/resom/591.ts
-#EXTINF:-1,HBO Family HD
-http://iya.mba:8900/live/resom/resom/592.ts
-#EXTINF:-1,HBO Signature HD
-http://iya.mba:8900/live/resom/resom/873.ts
-#EXTINF:-1,HBO Signature FHD
-http://iya.mba:8900/live/resom/resom/1498.ts
-#EXTINF:-1,Red by HBO HD
-http://iya.mba:8900/live/resom/resom/874.ts
-#EXTINF:-1,Cinemax HD
-http://iya.mba:8900/live/resom/resom/796.ts
-#EXTINF:-1,Cinemax FHD
-http://iya.mba:8900/live/resom/resom/2156.ts
-#EXTINF:-1,LifeTime
-http://iya.mba:8900/live/resom/resom/866.ts
-#EXTINF:-1,Warner TV ID HD
-http://iya.mba:8900/live/resom/resom/1533.ts
-#EXTINF:-1,Warner TV
-http://iya.mba:8900/live/resom/resom/865.ts
-#EXTINF:-1,Star Chinese Movies HD
-http://iya.mba:8900/live/resom/resom/780.ts
-#EXTINF:-1,Blue Ant Extreme
-http://iya.mba:8900/live/resom/resom/811.ts
-#EXTINF:-1,Waku Waku Japan FHD
-http://iya.mba:8900/live/resom/resom/1495.ts
-#EXTINF:-1,Waku Waku Japan HD
-http://iya.mba:8900/live/resom/resom/717.ts
-#EXTINF:-1,HGTV
-http://iya.mba:8900/live/resom/resom/537.ts
-#EXTINF:-1,AFC HD
-http://iya.mba:8900/live/resom/resom/807.ts
-#EXTINF:-1,Panda TV
-http://iya.mba:8900/live/resom/resom/1764.ts
-#EXTINF:-1,Oh!k
-http://iya.mba:8900/live/resom/resom/915.ts
-#EXTINF:-1,tVN Movies
-http://iya.mba:8900/live/resom/resom/927.ts
-#EXTINF:-1,National Geographic Channel HD
-http://iya.mba:8900/live/resom/resom/96.ts
-#EXTINF:-1,National Geographic Channel SD
-http://iya.mba:8900/live/resom/resom/1504.ts
-#EXTINF:-1,National Geographic Wild HD
-http://iya.mba:8900/live/resom/resom/97.ts
-#EXTINF:-1,National Geographic People
-http://iya.mba:8900/live/resom/resom/455.ts
-#EXTINF:-1,National Geographic Channel Backup
-http://iya.mba:8900/live/resom/resom/1445.ts
-#EXTINF:-1,National Geographic Wild Backup
-http://iya.mba:8900/live/resom/resom/1446.ts
-#EXTINF:-1,National Geographic People Backup
-http://iya.mba:8900/live/resom/resom/1447.ts
-#EXTINF:-1,History HD
-http://iya.mba:8900/live/resom/resom/718.ts
-#EXTINF:-1,Animal Planet HD
-http://iya.mba:8900/live/resom/resom/358.ts
-#EXTINF:-1,Discovery Channel HD
-http://iya.mba:8900/live/resom/resom/165.ts
-#EXTINF:-1,Discovery Asia
-http://iya.mba:8900/live/resom/resom/779.ts
-#EXTINF:-1,Discovery Science HD
-http://iya.mba:8900/live/resom/resom/408.ts
-#EXTINF:-1,Discovery Shed
-http://iya.mba:8900/live/resom/resom/333.ts
-#EXTINF:-1,Discovery Turbo
-http://iya.mba:8900/live/resom/resom/462.ts
-#EXTINF:-1,Crime Investigation
-http://iya.mba:8900/live/resom/resom/332.ts
-#EXTINF:-1,E!
-http://iya.mba:8900/live/resom/resom/490.ts
-#EXTINF:-1,IN: Zing TV
-http://iya.mba:8900/live/resom/resom/813.ts
-#EXTINF:-1,Food Network
-http://iya.mba:8900/live/resom/resom/625.ts
-#EXTINF:-1,Fashion TV
-http://iya.mba:8900/live/resom/resom/280.ts
-#EXTINF:-1,Sony ONE
-http://iya.mba:8900/live/resom/resom/19.ts
-#EXTINF:-1,Aljazeera EN
-http://iya.mba:8900/live/resom/resom/89.ts
-#EXTINF:-1,Tennis Channel
-http://iya.mba:8900/live/resom/resom/482.ts
-#EXTINF:-1,Super Tennis
-http://iya.mba:8900/live/resom/resom/2259.ts
-#EXTINF:-1,DMAX
-http://iya.mba:8900/live/resom/resom/483.ts
-#EXTINF:-1,K Drama
-http://iya.mba:8900/live/resom/resom/1699.ts
-#EXTINF:-1,K Plus
-http://iya.mba:8900/live/resom/resom/18.ts
-#EXTINF:-1,Star World
-http://iya.mba:8900/live/resom/resom/381.ts
-#EXTINF:-1,BBC Earth
-http://iya.mba:8900/live/resom/resom/385.ts
-#EXTINF:-1,IN: Sony Max HD
-http://iya.mba:8900/live/resom/resom/180.ts
-#EXTINF:-1,SBS HD
-http://iya.mba:8900/live/resom/resom/1847.ts
-#EXTINF:-1,SBS Food HD
-http://iya.mba:8900/live/resom/resom/1848.ts
-#EXTINF:-1,SBS Viceland HD
-http://iya.mba:8900/live/resom/resom/1849.ts
-#EXTINF:-1,Zee Bioskop
-http://iya.mba:8900/live/resom/resom/7.ts
-#EXTINF:-1,FMN
-http://iya.mba:8900/live/resom/resom/2138.ts
-#EXTINF:-1,Thrill
-http://iya.mba:8900/live/resom/resom/4.ts
-#EXTINF:-1,KIX
-http://iya.mba:8900/live/resom/resom/8.ts
-#EXTINF:-1,Celestial Movies
-http://iya.mba:8900/live/resom/resom/5.ts
-#EXTINF:-1,AXN
-http://iya.mba:8900/live/resom/resom/9.ts
-#EXTINF:-1,Aniplus
-http://iya.mba:8900/live/resom/resom/2.ts
-#EXTINF:-1,Animax
-http://iya.mba:8900/live/resom/resom/3.ts
-#EXTINF:-1,Animax Backup
-http://iya.mba:8900/live/resom/resom/1196.ts
-#EXTINF:-1,Channel V Int
-http://iya.mba:8900/live/resom/resom/766.ts
-#EXTINF:-1,S GEM HD
-http://iya.mba:8900/live/resom/resom/770.ts
-#EXTINF:-1,TVN HD
-http://iya.mba:8900/live/resom/resom/767.ts
-#EXTINF:-1,Monde LifeStyle
-http://iya.mba:8900/live/resom/resom/794.ts
-#EXTINF:-1,Bloomberg
-http://iya.mba:8900/live/resom/resom/788.ts
-#EXTINF:-1,France 24
-http://iya.mba:8900/live/resom/resom/787.ts
-#EXTINF:-1,NHK World Japan
-http://iya.mba:8900/live/resom/resom/785.ts
-#EXTINF:-1,TV 5 Monde Asie
-http://iya.mba:8900/live/resom/resom/786.ts
-#EXTINF:-1,BBC World News HD
-http://iya.mba:8900/live/resom/resom/789.ts
-#EXTINF:-1,CBeebies
-http://iya.mba:8900/live/resom/resom/491.ts
-#EXTINF:-1,Every Good Game
-http://iya.mba:8900/live/resom/resom/921.ts
-#EXTINF:-1,Astro AEC
-http://iya.mba:8900/live/resom/resom/922.ts
-#EXTINF:-1,Astro Prima HD
-http://iya.mba:8900/live/resom/resom/2244.ts
-#EXTINF:-1,Astro Bolly One
-http://iya.mba:8900/live/resom/resom/923.ts
-#EXTINF:-1,Astro Naura
-http://iya.mba:8900/live/resom/resom/2242.ts
-#EXTINF:-1,Astro Oasis
-http://iya.mba:8900/live/resom/resom/2243.ts
-#EXTINF:-1,Astro Vaanavil
-http://iya.mba:8900/live/resom/resom/2240.ts
-#EXTINF:-1,Astro Vinmeen HD
-http://iya.mba:8900/live/resom/resom/2241.ts
-#EXTINF:-1,Astro Warna
-http://iya.mba:8900/live/resom/resom/1197.ts
-#EXTINF:-1,Astro Hua Hee Dai
-http://iya.mba:8900/live/resom/resom/920.ts
-#EXTINF:-1,Astro Quan Jia
-http://iya.mba:8900/live/resom/resom/919.ts
-#EXTINF:-1,Astro Shuang Xing
-http://iya.mba:8900/live/resom/resom/918.ts
-#EXTINF:-1,Astro Ria
-http://iya.mba:8900/live/resom/resom/925.ts
-#EXTINF:-1,Astro Tara
-http://iya.mba:8900/live/resom/resom/924.ts
-#EXTINF:-1,Astro Wah Lai Toi
-http://iya.mba:8900/live/resom/resom/916.ts
-#EXTINF:-1,Astro Xi Yue
-http://iya.mba:8900/live/resom/resom/917.ts
-#EXTINF:-1,Astro Awani
-http://iya.mba:8900/live/resom/resom/294.ts
-#EXTINF:-1,Al_Jazeera Astro
-http://iya.mba:8900/live/resom/resom/2275.ts
-#EXTINF:-1,Ani_Plus Astro
-http://iya.mba:8900/live/resom/resom/2285.ts
-#EXTINF:-1,Animal_Plnet Astro
-http://iya.mba:8900/live/resom/resom/2305.ts
-#EXTINF:-1,Asian_Food_Channel Astro
-http://iya.mba:8900/live/resom/resom/2304.ts
-#EXTINF:-1,Astro_GO_Shop
-http://iya.mba:8900/live/resom/resom/2329.ts
-#EXTINF:-1,Astro_GO_Shop_2
-http://iya.mba:8900/live/resom/resom/2328.ts
-#EXTINF:-1,Astro_Tutor_Pt3
-http://iya.mba:8900/live/resom/resom/2330.ts
-#EXTINF:-1,Astro_Tutor_Spm
-http://iya.mba:8900/live/resom/resom/2332.ts
-#EXTINF:-1,Astro_Tutor_Upsr
-http://iya.mba:8900/live/resom/resom/2331.ts
-#EXTINF:-1,Astro_Xiao_Tai_Yang Astro
-http://iya.mba:8900/live/resom/resom/2327.ts
-#EXTINF:-1,Australia_Plus Astro
-http://iya.mba:8900/live/resom/resom/2312.ts
-#EXTINF:-1,AXN_hd Astro
-http://iya.mba:8900/live/resom/resom/2295.ts
-#EXTINF:-1,BBC_World_News Astro
-http://iya.mba:8900/live/resom/resom/2278.ts
-#EXTINF:-1,Bein_Max Astro
-http://iya.mba:8900/live/resom/resom/2316.ts
-#EXTINF:-1,Bein_Sport Astro
-http://iya.mba:8900/live/resom/resom/2317.ts
-#EXTINF:-1,Bernama_News_Channel Astro
-http://iya.mba:8900/live/resom/resom/2277.ts
-#EXTINF:-1,Bloomberg Astro
-http://iya.mba:8900/live/resom/resom/2287.ts
-#EXTINF:-1,Cartoon_Network Astro
-http://iya.mba:8900/live/resom/resom/2310.ts
-#EXTINF:-1,CCTV_News Astro
-http://iya.mba:8900/live/resom/resom/2272.ts
-#EXTINF:-1,CCTV4 Astro
-http://iya.mba:8900/live/resom/resom/2273.ts
-#EXTINF:-1,Celestial_Movies Astro
-http://iya.mba:8900/live/resom/resom/2313.ts
-#EXTINF:-1,CNBC_Asia Astro
-http://iya.mba:8900/live/resom/resom/2296.ts
-#EXTINF:-1,CNN Astro
-http://iya.mba:8900/live/resom/resom/2286.ts
-#EXTINF:-1,Colors Astro
-http://iya.mba:8900/live/resom/resom/2266.ts
-#EXTINF:-1,Comedy_Central_hd Astro
-http://iya.mba:8900/live/resom/resom/2293.ts
-#EXTINF:-1,Discovery_Channel Astro
-http://iya.mba:8900/live/resom/resom/2298.ts
-#EXTINF:-1,Disney_Channel Astro
-http://iya.mba:8900/live/resom/resom/2308.ts
-#EXTINF:-1,Disney_Junior Astro
-http://iya.mba:8900/live/resom/resom/2307.ts
-#EXTINF:-1,DisneyXD Astro
-http://iya.mba:8900/live/resom/resom/2306.ts
-#EXTINF:-1,Diva_hd Astro
-http://iya.mba:8900/live/resom/resom/2292.ts
-#EXTINF:-1,DWTV Astro
-http://iya.mba:8900/live/resom/resom/2280.ts
-#EXTINF:-1,Entrtaiment Astro
-http://iya.mba:8900/live/resom/resom/2282.ts
-#EXTINF:-1,Eurosport_1 Astro
-http://iya.mba:8900/live/resom/resom/2314.ts
-#EXTINF:-1,Every_Good_Game Astro
-http://iya.mba:8900/live/resom/resom/2315.ts
-#EXTINF:-1,Food_Network_Asia Astro
-http://iya.mba:8900/live/resom/resom/2299.ts
-#EXTINF:-1,FOX_Sports Astro
-http://iya.mba:8900/live/resom/resom/2322.ts
-#EXTINF:-1,FOX_Sports_2 Astro
-http://iya.mba:8900/live/resom/resom/2321.ts
-#EXTINF:-1,FOX_Sports_3 Astro
-http://iya.mba:8900/live/resom/resom/2320.ts
-#EXTINF:-1,FRANCE24 Astro
-http://iya.mba:8900/live/resom/resom/2281.ts
-#EXTINF:-1,Hello Astro
-http://iya.mba:8900/live/resom/resom/2265.ts
-#EXTINF:-1,HGTV Astro
-http://iya.mba:8900/live/resom/resom/2311.ts
-#EXTINF:-1,Hits Astro
-http://iya.mba:8900/live/resom/resom/2301.ts
-#EXTINF:-1,JayaTV Astro
-http://iya.mba:8900/live/resom/resom/2283.ts
-#EXTINF:-1,K_Plus Astro
-http://iya.mba:8900/live/resom/resom/2288.ts
-#EXTINF:-1,Kix Astro
-http://iya.mba:8900/live/resom/resom/2291.ts
-#EXTINF:-1,MakkalTV Astro
-http://iya.mba:8900/live/resom/resom/2268.ts
-#EXTINF:-1,MTV_Asia Astro
-http://iya.mba:8900/live/resom/resom/2300.ts
-#EXTINF:-1,Nat_Geo_Wild Astro
-http://iya.mba:8900/live/resom/resom/2303.ts
-#EXTINF:-1,NBC_Golf Astro
-http://iya.mba:8900/live/resom/resom/2297.ts
-#EXTINF:-1,News_Asia Astro
-http://iya.mba:8900/live/resom/resom/2276.ts
-#EXTINF:-1,Nickelodeon Astro
-http://iya.mba:8900/live/resom/resom/2309.ts
-#EXTINF:-1,Setanta_Sport Astro
-http://iya.mba:8900/live/resom/resom/2319.ts
-#EXTINF:-1,Sky_News Astro
-http://iya.mba:8900/live/resom/resom/2279.ts
-#EXTINF:-1,Sony_One_hd Astro
-http://iya.mba:8900/live/resom/resom/2284.ts
-#EXTINF:-1,Star_Vijay Astro
-http://iya.mba:8900/live/resom/resom/2325.ts
-#EXTINF:-1,TLC Astro
-http://iya.mba:8900/live/resom/resom/2302.ts
-#EXTINF:-1,TV Al-Hijrah Astro
-http://iya.mba:8900/live/resom/resom/2274.ts
-#EXTINF:-1,TVB_News Astro
-http://iya.mba:8900/live/resom/resom/2269.ts
-#EXTINF:-1,TVB_Sasia Astro
-http://iya.mba:8900/live/resom/resom/2270.ts
-#EXTINF:-1,TVB_Xing_He Astro
-http://iya.mba:8900/live/resom/resom/2271.ts
-#EXTINF:-1,TVN Astro
-http://iya.mba:8900/live/resom/resom/2290.ts
-#EXTINF:-1,TVN_Movies Astro
-http://iya.mba:8900/live/resom/resom/2289.ts
-#EXTINF:-1,WWE_Network Astro
-http://iya.mba:8900/live/resom/resom/2318.ts
-#EXTINF:-1,MY: Animax
-http://iya.mba:8900/live/resom/resom/2377.ts
-#EXTINF:-1,MY: Aniplus
-http://iya.mba:8900/live/resom/resom/2378.ts
-#EXTINF:-1,MY: BBC Earth
-http://iya.mba:8900/live/resom/resom/2379.ts
-#EXTINF:-1,MY: BBC Lifestyle
-http://iya.mba:8900/live/resom/resom/2380.ts
-#EXTINF:-1,MY: Boomerang HD
-http://iya.mba:8900/live/resom/resom/2381.ts
-#EXTINF:-1,MY: Dreamworks HD
-http://iya.mba:8900/live/resom/resom/2382.ts
-#EXTINF:-1,MY: CH-8
-http://iya.mba:8900/live/resom/resom/2369.ts
-#EXTINF:-1,MY: Fox
-http://iya.mba:8900/live/resom/resom/2367.ts
-#EXTINF:-1,MY: Fox Life
-http://iya.mba:8900/live/resom/resom/2366.ts
-#EXTINF:-1,MY: Sony One
-http://iya.mba:8900/live/resom/resom/2368.ts
-#EXTINF:-1,MY: Baby TV
-http://iya.mba:8900/live/resom/resom/2352.ts
-#EXTINF:-1,MY: Fox Action Movies
-http://iya.mba:8900/live/resom/resom/2351.ts
-#EXTINF:-1,MY: Fox Family Movies
-http://iya.mba:8900/live/resom/resom/2350.ts
-#EXTINF:-1,MY: Fox Movies
-http://iya.mba:8900/live/resom/resom/2349.ts
-#EXTINF:-1,MY: Hypp Choice
-http://iya.mba:8900/live/resom/resom/2353.ts
-#EXTINF:-1,MY: Hypp Inspirasi
-http://iya.mba:8900/live/resom/resom/2354.ts
-#EXTINF:-1,MY: Hypp Sensasi
-http://iya.mba:8900/live/resom/resom/2355.ts
-#EXTINF:-1,MY: Luxe TV
-http://iya.mba:8900/live/resom/resom/2356.ts
-#EXTINF:-1,MY: Nat Geo Asia
-http://iya.mba:8900/live/resom/resom/2358.ts
-#EXTINF:-1,MY: Nat Geo People
-http://iya.mba:8900/live/resom/resom/2357.ts
-#EXTINF:-1,MY: Nick JR
-http://iya.mba:8900/live/resom/resom/2359.ts
-#EXTINF:-1,MY: Now Chinese Drama
-http://iya.mba:8900/live/resom/resom/2360.ts
-#EXTINF:-1,MY: Now International
-http://iya.mba:8900/live/resom/resom/2361.ts
-#EXTINF:-1,MY: Now TV
-http://iya.mba:8900/live/resom/resom/2362.ts
-#EXTINF:-1,MY: Paramount Channel
-http://iya.mba:8900/live/resom/resom/2363.ts
-#EXTINF:-1,MY: Salam
-http://iya.mba:8900/live/resom/resom/2364.ts
-#EXTINF:-1,AR: Al Nahar
-http://iya.mba:8900/live/resom/resom/2575.ts
-#EXTINF:-1,AR: MBC 2 HD
-http://iya.mba:8900/live/resom/resom/2561.ts
-#EXTINF:-1,AR: MBC 3 HD
-http://iya.mba:8900/live/resom/resom/2562.ts
-#EXTINF:-1,AR: MBC 4 HD
-http://iya.mba:8900/live/resom/resom/2563.ts
-#EXTINF:-1,AR: MBC Action HD
-http://iya.mba:8900/live/resom/resom/2564.ts
-#EXTINF:-1,AR: MBC Drama HD
-http://iya.mba:8900/live/resom/resom/2565.ts
-#EXTINF:-1,AR: MBC HD
-http://iya.mba:8900/live/resom/resom/2560.ts
-#EXTINF:-1,AR: MBC Mac HD
-http://iya.mba:8900/live/resom/resom/2566.ts
-#EXTINF:-1,AR: MBC Plus Drama HD
-http://iya.mba:8900/live/resom/resom/2568.ts
-#EXTINF:-1,AR: MBC Variety HD
-http://iya.mba:8900/live/resom/resom/2567.ts
-#EXTINF:-1,AR: Nile Cinema
-http://iya.mba:8900/live/resom/resom/2584.ts
-#EXTINF:-1,AR: NILE COMEDY
-http://iya.mba:8900/live/resom/resom/2583.ts
-#EXTINF:-1,AR: Nile Culture
-http://iya.mba:8900/live/resom/resom/2582.ts
-#EXTINF:-1,AR: Nile Drama
-http://iya.mba:8900/live/resom/resom/2581.ts
-#EXTINF:-1,AR: Nile Family
-http://iya.mba:8900/live/resom/resom/2576.ts
-#EXTINF:-1,AR: Nile Life
-http://iya.mba:8900/live/resom/resom/2580.ts
-#EXTINF:-1,AR: NILE NEWS
-http://iya.mba:8900/live/resom/resom/2579.ts
-#EXTINF:-1,AR: Nile Sport
-http://iya.mba:8900/live/resom/resom/2578.ts
-#EXTINF:-1,AR: Nile tv
-http://iya.mba:8900/live/resom/resom/2577.ts
-#EXTINF:-1,AR: Rotana Alfam HD
-http://iya.mba:8900/live/resom/resom/2574.ts
-#EXTINF:-1,AR: Rotana Cinema HD
-http://iya.mba:8900/live/resom/resom/2573.ts
-#EXTINF:-1,AR: Rotana Classic HD
-http://iya.mba:8900/live/resom/resom/2572.ts
-#EXTINF:-1,AR: Rotana Khalijiah HD
-http://iya.mba:8900/live/resom/resom/2571.ts
-#EXTINF:-1,AR: Rotana Masriah HD
-http://iya.mba:8900/live/resom/resom/2570.ts
-#EXTINF:-1,AR: Rotana Music HD
-http://iya.mba:8900/live/resom/resom/2569.ts
-#EXTINF:-1,TVRI ACEH
-http://iya.mba:8900/live/resom/resom/1733.ts
-#EXTINF:-1,TVRI BALI
-http://iya.mba:8900/live/resom/resom/1745.ts
-#EXTINF:-1,TVRI BANGKA BELITUNG
-http://iya.mba:8900/live/resom/resom/1740.ts
-#EXTINF:-1,TVRI BENGKULU
-http://iya.mba:8900/live/resom/resom/1741.ts
-#EXTINF:-1,TVRI BUDAYA
-http://iya.mba:8900/live/resom/resom/1734.ts
-#EXTINF:-1,TVRI DKI
-http://iya.mba:8900/live/resom/resom/1762.ts
-#EXTINF:-1,TVRI GORONTALO
-http://iya.mba:8900/live/resom/resom/1759.ts
-#EXTINF:-1,TVRI JAMBI
-http://iya.mba:8900/live/resom/resom/1739.ts
-#EXTINF:-1,TVRI Jawa Tengah
-http://iya.mba:8900/live/resom/resom/1743.ts
-#EXTINF:-1,TVRI Jawa Timur
-http://iya.mba:8900/live/resom/resom/1744.ts
-#EXTINF:-1,TVRI Kalimantan Barat
-http://iya.mba:8900/live/resom/resom/1749.ts
-#EXTINF:-1,TVRI Kalimantan Selatan
-http://iya.mba:8900/live/resom/resom/1752.ts
-#EXTINF:-1,TVRI Kalimantan Tengah
-http://iya.mba:8900/live/resom/resom/1750.ts
-#EXTINF:-1,TVRI Kalimantan Timur
-http://iya.mba:8900/live/resom/resom/1751.ts
-#EXTINF:-1,TVRI LAMPUNG
-http://iya.mba:8900/live/resom/resom/1742.ts
-#EXTINF:-1,TVRI MALUKU
-http://iya.mba:8900/live/resom/resom/1758.ts
-#EXTINF:-1,TVRI NASIONAL BANDUNG
-http://iya.mba:8900/live/resom/resom/1761.ts
-#EXTINF:-1,TVRI Nusa Tenggara Barat
-http://iya.mba:8900/live/resom/resom/1747.ts
-#EXTINF:-1,TVRI Nusa Tenggara Timur
-http://iya.mba:8900/live/resom/resom/1748.ts
-#EXTINF:-1,TVRI PAPUA
-http://iya.mba:8900/live/resom/resom/1760.ts
-#EXTINF:-1,TVRI RIAU
-http://iya.mba:8900/live/resom/resom/1738.ts
-#EXTINF:-1,TVRI Sulawesi Barat
-http://iya.mba:8900/live/resom/resom/1753.ts
-#EXTINF:-1,TVRI Sulawesi Selatan
-http://iya.mba:8900/live/resom/resom/1754.ts
-#EXTINF:-1,TVRI Sulawesi Tengah
-http://iya.mba:8900/live/resom/resom/1757.ts
-#EXTINF:-1,TVRI Sulawesi Tenggara
-http://iya.mba:8900/live/resom/resom/1756.ts
-#EXTINF:-1,TVRI Sulawesi Utara
-http://iya.mba:8900/live/resom/resom/1755.ts
-#EXTINF:-1,TVRI Sumatera Barat
-http://iya.mba:8900/live/resom/resom/1736.ts
-#EXTINF:-1,TVRI Sumatera Selatan
-http://iya.mba:8900/live/resom/resom/1737.ts
-#EXTINF:-1,TVRI Sumatera Utara
-http://iya.mba:8900/live/resom/resom/1735.ts
-#EXTINF:-1,TVRI YOGYAKARTA
-http://iya.mba:8900/live/resom/resom/1746.ts
-#EXTINF:-1,Zoom TV
-http://iya.mba:8900/live/resom/resom/815.ts
-#EXTINF:-1,Mix HD
-http://iya.mba:8900/live/resom/resom/1157.ts
-#EXTINF:-1,ONE African TV
-http://iya.mba:8900/live/resom/resom/1731.ts
-#EXTINF:-1,MTV
-http://iya.mba:8900/live/resom/resom/281.ts
-#EXTINF:-1,MTV Music
-http://iya.mba:8900/live/resom/resom/286.ts
-#EXTINF:-1,MTV Hits
-http://iya.mba:8900/live/resom/resom/287.ts
-#EXTINF:-1,MTV Dance
-http://iya.mba:8900/live/resom/resom/288.ts
-#EXTINF:-1,MTV Classic
-http://iya.mba:8900/live/resom/resom/289.ts
-#EXTINF:-1,MTV Base
-http://iya.mba:8900/live/resom/resom/291.ts
-#EXTINF:-1,Trace Naija
-http://iya.mba:8900/live/resom/resom/113.ts
-#EXTINF:-1,Trace Urban
-http://iya.mba:8900/live/resom/resom/106.ts
-#EXTINF:-1,Trace Mizki
-http://iya.mba:8900/live/resom/resom/109.ts
-#EXTINF:-1,Trace Africa
-http://iya.mba:8900/live/resom/resom/108.ts
-#EXTINF:-1,Trace Tropical
-http://iya.mba:8900/live/resom/resom/112.ts
-#EXTINF:-1,Trace Toca
-http://iya.mba:8900/live/resom/resom/111.ts
-#EXTINF:-1,TLC HD
-http://iya.mba:8900/live/resom/resom/352.ts
-#EXTINF:-1,TLC English
-http://iya.mba:8900/live/resom/resom/351.ts
-#EXTINF:-1,Piala Indonesia
-http://iya.mba:8900/live/resom/resom/2150.ts
-#EXTINF:-1,Golf Channel
-http://iya.mba:8900/live/resom/resom/561.ts
-#EXTINF:-1,IN: Colors HD
-http://iya.mba:8900/live/resom/resom/2548.ts
-#EXTINF:-1,IN: Star Jalsha
-http://iya.mba:8900/live/resom/resom/2547.ts
-#EXTINF:-1,IN: Star Plus
-http://iya.mba:8900/live/resom/resom/2546.ts
-#EXTINF:-1,IN: Star Vijay
-http://iya.mba:8900/live/resom/resom/2545.ts
-#EXTINF:-1,IN: UTV Bindass
-http://iya.mba:8900/live/resom/resom/2544.ts
-#EXTINF:-1,IN: UTV Movies HD
-http://iya.mba:8900/live/resom/resom/2543.ts
-#EXTINF:-1,IN: Zee Bollywood
-http://iya.mba:8900/live/resom/resom/2541.ts
-#EXTINF:-1,IN: Zee Cinema
-http://iya.mba:8900/live/resom/resom/2542.ts
-#EXTINF:-1,IN: & Picture HD
-http://iya.mba:8900/live/resom/resom/2553.ts
-#EXTINF:-1,IN: &TV HD India
-http://iya.mba:8900/live/resom/resom/2554.ts
-#EXTINF:-1,IN: B4U Movies
-http://iya.mba:8900/live/resom/resom/2557.ts
-#EXTINF:-1,IN: B4U Music
-http://iya.mba:8900/live/resom/resom/2558.ts
-#EXTINF:-1,IN: Star Gold HD
-http://iya.mba:8900/live/resom/resom/2549.ts
-#EXTINF:-1,IN: Star Movies HD
-http://iya.mba:8900/live/resom/resom/2550.ts
-#EXTINF:-1,IN: SUN Life
-http://iya.mba:8900/live/resom/resom/2556.ts
-#EXTINF:-1,IN: SUN Music
-http://iya.mba:8900/live/resom/resom/2555.ts
-#EXTINF:-1,IN: Sun TV HD
-http://iya.mba:8900/live/resom/resom/2551.ts
-#EXTINF:-1,IN: Zee HD
-http://iya.mba:8900/live/resom/resom/2559.ts
-#EXTINF:-1,AU: beIN Sports 1
-http://iya.mba:8900/live/resom/resom/2527.ts
-#EXTINF:-1,AU: beIN Sports 2
-http://iya.mba:8900/live/resom/resom/2526.ts
-#EXTINF:-1,AU: beIN Sports 3
-http://iya.mba:8900/live/resom/resom/2525.ts
-#EXTINF:-1,AU: ESPN 1
-http://iya.mba:8900/live/resom/resom/2524.ts
-#EXTINF:-1,AU: ESPN 2
-http://iya.mba:8900/live/resom/resom/2523.ts
-#EXTINF:-1,AU: Fox Sports 501
-http://iya.mba:8900/live/resom/resom/2522.ts
-#EXTINF:-1,AU: Fox Sports 502
-http://iya.mba:8900/live/resom/resom/2521.ts
-#EXTINF:-1,AU: Fox Sports 503
-http://iya.mba:8900/live/resom/resom/2520.ts
-#EXTINF:-1,AU: Fox Sports 504
-http://iya.mba:8900/live/resom/resom/2519.ts
-#EXTINF:-1,AU: Fox Sports 505
-http://iya.mba:8900/live/resom/resom/2518.ts
-#EXTINF:-1,AU: Fox Sports 506
-http://iya.mba:8900/live/resom/resom/2517.ts
-#EXTINF:-1,AU: Fox Sports 507
-http://iya.mba:8900/live/resom/resom/2516.ts
-#EXTINF:-1,AU: Fox Sports News
-http://iya.mba:8900/live/resom/resom/2515.ts
-#EXTINF:-1,AU: Racing.com
-http://iya.mba:8900/live/resom/resom/2514.ts
-#EXTINF:-1,TH: NBA Finals 2019
-http://iya.mba:8900/live/resom/resom/2376.ts
-#EXTINF:-1,TH: NFL Network
-http://iya.mba:8900/live/resom/resom/2373.ts
-#EXTINF:-1,TH: True Premier Football HD 1
-http://iya.mba:8900/live/resom/resom/2374.ts
-#EXTINF:-1,TH: True Premier Football HD 2
-http://iya.mba:8900/live/resom/resom/2375.ts
-#EXTINF:-1,TH: True Sport 2
-http://iya.mba:8900/live/resom/resom/2371.ts
-#EXTINF:-1,TH: True Sport 3
-http://iya.mba:8900/live/resom/resom/2372.ts
-#EXTINF:-1,TH: True Tennis
-http://iya.mba:8900/live/resom/resom/2370.ts
-#EXTINF:-1,Thairath TV
-http://iya.mba:8900/live/resom/resom/2404.ts
-#EXTINF:-1,BeIN Sport 1 ID
-http://iya.mba:8900/live/resom/resom/728.ts
-#EXTINF:-1,BeIN Sport 2 ID
-http://iya.mba:8900/live/resom/resom/729.ts
-#EXTINF:-1,Champions TV 1
-http://iya.mba:8900/live/resom/resom/2407.ts
-#EXTINF:-1,Champions TV 2
-http://iya.mba:8900/live/resom/resom/2409.ts
-#EXTINF:-1,USEE Sport 2
-http://iya.mba:8900/live/resom/resom/2408.ts
-#EXTINF:-1,Astro Arena
-http://iya.mba:8900/live/resom/resom/1486.ts
-#EXTINF:-1,Astro Super Sports 3 SD
-http://iya.mba:8900/live/resom/resom/893.ts
-#EXTINF:-1,Astro Super Sports 4 SD
-http://iya.mba:8900/live/resom/resom/894.ts
-#EXTINF:-1,Astro Super Sports 1 HD
-http://iya.mba:8900/live/resom/resom/2151.ts
-#EXTINF:-1,Astro Super Sports 2 HD
-http://iya.mba:8900/live/resom/resom/2152.ts
-#EXTINF:-1,Astro Super Sports 3 HD
-http://iya.mba:8900/live/resom/resom/2153.ts
-#EXTINF:-1,Astro Super Sports 4 HD
-http://iya.mba:8900/live/resom/resom/2154.ts
-#EXTINF:-1,Astro Super Sports 1 FHD
-http://iya.mba:8900/live/resom/resom/2133.ts
-#EXTINF:-1,Astro Super Sports 2 FHD
-http://iya.mba:8900/live/resom/resom/2134.ts
-#EXTINF:-1,Astro Super Sports 3 FHD
-http://iya.mba:8900/live/resom/resom/2135.ts
-#EXTINF:-1,Astro Super Sports 4 FHD
-http://iya.mba:8900/live/resom/resom/2136.ts
-#EXTINF:-1,Astro Cricket HD
-http://iya.mba:8900/live/resom/resom/1716.ts
-#EXTINF:-1,Fox Sports 1
-http://iya.mba:8900/live/resom/resom/51.ts
-#EXTINF:-1,Fox Sports 1 HD Backup
-http://iya.mba:8900/live/resom/resom/1475.ts
-#EXTINF:-1,Fox Sports 2
-http://iya.mba:8900/live/resom/resom/102.ts
-#EXTINF:-1,Fox Sports 2 HD Backup
-http://iya.mba:8900/live/resom/resom/1476.ts
-#EXTINF:-1,Fox Sports 3
-http://iya.mba:8900/live/resom/resom/101.ts
-#EXTINF:-1,Fox Sports 3 HD Backup
-http://iya.mba:8900/live/resom/resom/1477.ts
-#EXTINF:-1,Sky Sports F1
-http://iya.mba:8900/live/resom/resom/1507.ts
-#EXTINF:-1,NBCSN HD
-http://iya.mba:8900/live/resom/resom/2402.ts
-#EXTINF:-1,UFC FHD
-http://iya.mba:8900/live/resom/resom/2401.ts
-#EXTINF:-1,Skynet 1
-http://iya.mba:8900/live/resom/resom/1159.ts
-#EXTINF:-1,Skynet 2
-http://iya.mba:8900/live/resom/resom/1160.ts
-#EXTINF:-1,Skynet 3
-http://iya.mba:8900/live/resom/resom/1161.ts
-#EXTINF:-1,Skynet 4
-http://iya.mba:8900/live/resom/resom/1162.ts
-#EXTINF:-1,Skynet HD
-http://iya.mba:8900/live/resom/resom/679.ts
-#EXTINF:-1,Arena Sport 1
-http://iya.mba:8900/live/resom/resom/965.ts
-#EXTINF:-1,Arena Sport 2
-http://iya.mba:8900/live/resom/resom/966.ts
-#EXTINF:-1,Arena Sport 3
-http://iya.mba:8900/live/resom/resom/967.ts
-#EXTINF:-1,Arena Sport 4
-http://iya.mba:8900/live/resom/resom/968.ts
-#EXTINF:-1,Star Sport 1 HD
-http://iya.mba:8900/live/resom/resom/1183.ts
-#EXTINF:-1,Star Sport 2
-http://iya.mba:8900/live/resom/resom/1184.ts
-#EXTINF:-1,Sony Ten 1 HD Airtel
-http://iya.mba:8900/live/resom/resom/619.ts
-#EXTINF:-1,Sony Ten 2 HD Airtel
-http://iya.mba:8900/live/resom/resom/621.ts
-#EXTINF:-1,Sony Ten 3 HD Airtel
-http://iya.mba:8900/live/resom/resom/623.ts
-#EXTINF:-1,PPTV HD
-http://iya.mba:8900/live/resom/resom/605.ts
-#EXTINF:-1,Eurosport 1
-http://iya.mba:8900/live/resom/resom/2224.ts
-#EXTINF:-1,Eurosport 2
-http://iya.mba:8900/live/resom/resom/2225.ts
-#EXTINF:-1,[TEST] ESPN HD
-http://iya.mba:8900/live/resom/resom/2157.ts
-#EXTINF:-1,[TEST] MLB Network
-http://iya.mba:8900/live/resom/resom/2260.ts
-#EXTINF:-1,[TEST] NHL Network
-http://iya.mba:8900/live/resom/resom/2222.ts
-#EXTINF:-1,[TEST] SEC NETWORK
-http://iya.mba:8900/live/resom/resom/2230.ts
-#EXTINF:-1,BeIN Sports 1
-http://iya.mba:8900/live/resom/resom/10.ts
-#EXTINF:-1,BeIN Sports 2
-http://iya.mba:8900/live/resom/resom/11.ts
-#EXTINF:-1,BeIN Sports 3
-http://iya.mba:8900/live/resom/resom/12.ts
-#EXTINF:-1,BeIN Sports 4
-http://iya.mba:8900/live/resom/resom/217.ts
-#EXTINF:-1,BeIN Sports 5
-http://iya.mba:8900/live/resom/resom/218.ts
-#EXTINF:-1,BeIN Sports 6
-http://iya.mba:8900/live/resom/resom/219.ts
-#EXTINF:-1,BeIN Sports 7
-http://iya.mba:8900/live/resom/resom/220.ts
-#EXTINF:-1,BeIN Sports 8
-http://iya.mba:8900/live/resom/resom/221.ts
-#EXTINF:-1,BeIN Sports 9
-http://iya.mba:8900/live/resom/resom/222.ts
-#EXTINF:-1,BeIN Sports 10
-http://iya.mba:8900/live/resom/resom/253.ts
-#EXTINF:-1,BeIN Sports 11
-http://iya.mba:8900/live/resom/resom/254.ts
-#EXTINF:-1,BeIN Sports 12
-http://iya.mba:8900/live/resom/resom/255.ts
-#EXTINF:-1,BeIN LaLiga
-http://iya.mba:8900/live/resom/resom/416.ts
-#EXTINF:-1,BT Sport 1
-http://iya.mba:8900/live/resom/resom/319.ts
-#EXTINF:-1,BT Sport 2
-http://iya.mba:8900/live/resom/resom/320.ts
-#EXTINF:-1,BT Sport 3
-http://iya.mba:8900/live/resom/resom/321.ts
-#EXTINF:-1,Flow NFL 1 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2400.ts
-#EXTINF:-1,Flow NFL 2 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2399.ts
-#EXTINF:-1,Flow NFL 3 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2398.ts
-#EXTINF:-1,Flow NFL 4 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2397.ts
-#EXTINF:-1,Flow NFL 5 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2396.ts
-#EXTINF:-1,Flow NFL 6 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2395.ts
-#EXTINF:-1,Flow NFL 7 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2394.ts
-#EXTINF:-1,Flow NFL 8 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2393.ts
-#EXTINF:-1,Flow NFL 9 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2392.ts
-#EXTINF:-1,Flow NFL 10 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2391.ts
-#EXTINF:-1,Flow NFL 11 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2390.ts
-#EXTINF:-1,Flow NFL 12 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2389.ts
-#EXTINF:-1,Flow NFL 13 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2388.ts
-#EXTINF:-1,Flow NFL 14 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2387.ts
-#EXTINF:-1,Flow NFL 15 hd (live during nfl match)
-http://iya.mba:8900/live/resom/resom/2386.ts
-#EXTINF:-1,MU TV
-http://iya.mba:8900/live/resom/resom/400.ts
-#EXTINF:-1,BT Sport ESPN
-http://iya.mba:8900/live/resom/resom/399.ts
-#EXTINF:-1,CCTV 5 HD
-http://iya.mba:8900/live/resom/resom/595.ts
-#EXTINF:-1,CCTV 5 HD+
-http://iya.mba:8900/live/resom/resom/814.ts
-#EXTINF:-1,Golf HD
-http://iya.mba:8900/live/resom/resom/864.ts
-#EXTINF:-1,ESL Indonesia
-http://iya.mba:8900/live/resom/resom/1988.ts
-#EXTINF:-1,Fight Sports
-http://iya.mba:8900/live/resom/resom/784.ts
-#EXTINF:-1,FIGHT BOX
-http://iya.mba:8900/live/resom/resom/501.ts
-#EXTINF:-1,Box Nation
-http://iya.mba:8900/live/resom/resom/499.ts
-#EXTINF:-1,WWE Network
-http://iya.mba:8900/live/resom/resom/299.ts
-#EXTINF:-1,Foodie
-http://iya.mba:8900/live/resom/resom/1505.ts
-#EXTINF:-1,Real Madrid TV
-http://iya.mba:8900/live/resom/resom/244.ts
-#EXTINF:-1,Blue Ant Entertainment
-http://iya.mba:8900/live/resom/resom/1506.ts
-#EXTINF:-1,NBA TV
-http://iya.mba:8900/live/resom/resom/243.ts
-#EXTINF:-1,Ten Golf HD
-http://iya.mba:8900/live/resom/resom/224.ts
-#EXTINF:-1,Setanta Sport
-http://iya.mba:8900/live/resom/resom/1199.ts
-#EXTINF:-1,Setanta Sports +
-http://iya.mba:8900/live/resom/resom/2223.ts
-#EXTINF:-1,ESPN News
-http://iya.mba:8900/live/resom/resom/2221.ts
-#EXTINF:-1,Aladdin
-http://iya.mba:8900/movie/resom/resom/2413.MP4
-#EXTINF:-1,American Hangman
-http://iya.mba:8900/movie/resom/resom/2417.MP4
-#EXTINF:-1,Angel of Mine
-http://iya.mba:8900/movie/resom/resom/2419.MP4
-#EXTINF:-1,Avengers: Endgame
-http://iya.mba:8900/movie/resom/resom/2412.MP4
-#EXTINF:-1,Brexit: The Uncivil War
-http://iya.mba:8900/movie/resom/resom/2424.MP4
-#EXTINF:-1,can you keep the secret?
-http://iya.mba:8900/movie/resom/resom/2425.MP4
-#EXTINF:-1,Chase (2019)
-http://iya.mba:8900/movie/resom/resom/2426.MP4
-#EXTINF:-1,Click Bait
-http://iya.mba:8900/movie/resom/resom/2420.MP4
-#EXTINF:-1,Dark Phoenix
-http://iya.mba:8900/movie/resom/resom/2414.MP4
-#EXTINF:-1,Dirty God
-http://iya.mba:8900/movie/resom/resom/2415.MP4
-#EXTINF:-1,Every Time I Die
-http://iya.mba:8900/movie/resom/resom/2429.MP4
-#EXTINF:-1,Godzilla: King of the Monsters
-http://iya.mba:8900/movie/resom/resom/2411.MP4
-#EXTINF:-1,Into the Ashes
-http://iya.mba:8900/movie/resom/resom/2427.MP4
-#EXTINF:-1,Spider-Man: Far from Home
-http://iya.mba:8900/movie/resom/resom/2416.MP4
-#EXTINF:-1,The Dead Don't Die
-http://iya.mba:8900/movie/resom/resom/2418.MP4
-#EXTINF:-1,The Last Boy
-http://iya.mba:8900/movie/resom/resom/2428.MP4
-#EXTINF:-1,The Wandering Earth
-http://iya.mba:8900/movie/resom/resom/2423.MP4
-#EXTINF:-1,The Wolf's Call
-http://iya.mba:8900/movie/resom/resom/2421.MP4
-#EXTINF:-1,A Star Is Born
-http://iya.mba:8900/movie/resom/resom/2433.MP4
-#EXTINF:-1,Avengers: Infinity War
-http://iya.mba:8900/movie/resom/resom/2440.MP4
-#EXTINF:-1,Batman: Hush
-http://iya.mba:8900/movie/resom/resom/2434.MP4
-#EXTINF:-1,Black Panther
-http://iya.mba:8900/movie/resom/resom/2435.MP4
-#EXTINF:-1,BlacKkKlansman
-http://iya.mba:8900/movie/resom/resom/2446.MP4
-#EXTINF:-1,Captain Marvel
-http://iya.mba:8900/movie/resom/resom/2432.MP4
-#EXTINF:-1,Christoper Robin
-http://iya.mba:8900/movie/resom/resom/2441.MP4
-#EXTINF:-1,Deadpool 2
-http://iya.mba:8900/movie/resom/resom/2447.MP4
-#EXTINF:-1,Dying to Survive
-http://iya.mba:8900/movie/resom/resom/2442.MP4
-#EXTINF:-1,Five Feet Apart
-http://iya.mba:8900/movie/resom/resom/2443.MP4
-#EXTINF:-1,Incredibles 2
-http://iya.mba:8900/movie/resom/resom/2444.MP4
-#EXTINF:-1,Kids on the Slope
-http://iya.mba:8900/movie/resom/resom/2445.MP4
-#EXTINF:-1,Mid90s
-http://iya.mba:8900/movie/resom/resom/2448.MP4
-#EXTINF:-1,Parmanu: The Story of Pokhran
-http://iya.mba:8900/movie/resom/resom/2436.MP4
-#EXTINF:-1,Reign of the Supermen
-http://iya.mba:8900/movie/resom/resom/2449.MP4
-#EXTINF:-1,Rocketman
-http://iya.mba:8900/movie/resom/resom/2430.MP4
-#EXTINF:-1,SGT. Will Gardner
-http://iya.mba:8900/movie/resom/resom/2437.MP4
-#EXTINF:-1,Shazam!
-http://iya.mba:8900/movie/resom/resom/2438.MKV
-#EXTINF:-1,Suicide Squad: Hell to Pay
-http://iya.mba:8900/movie/resom/resom/2431.MP4
-#EXTINF:-1,Upgrade
-http://iya.mba:8900/movie/resom/resom/2439.MP4
-#EXTINF:-1,A Dog's Journey
-http://iya.mba:8900/movie/resom/resom/2451.MP4
-#EXTINF:-1,Apollo 11
-http://iya.mba:8900/movie/resom/resom/2450.MP4
-#EXTINF:-1,Logan
-http://iya.mba:8900/movie/resom/resom/2462.MP4
-#EXTINF:-1,Mission: Impossible - Fallout
-http://iya.mba:8900/movie/resom/resom/2455.MP4
-#EXTINF:-1,On My Skin
-http://iya.mba:8900/movie/resom/resom/2454.MP4
-#EXTINF:-1,Spider-Man: Homecoming
-http://iya.mba:8900/movie/resom/resom/2461.MP4
-#EXTINF:-1,Spider-Man: Into the Spider-Verse
-http://iya.mba:8900/movie/resom/resom/2463.MP4
-#EXTINF:-1,Star Wars: Episode VII - The Force Awakens: The Story Awakens - The Table Read
-http://iya.mba:8900/movie/resom/resom/2464.MP4
-#EXTINF:-1,The Death of Superman
-http://iya.mba:8900/movie/resom/resom/2452.MP4
-#EXTINF:-1,The Secret Life of Pets 2
-http://iya.mba:8900/movie/resom/resom/2453.MP4
-#EXTINF:-1,Venom
-http://iya.mba:8900/movie/resom/resom/2460.MP4
-#EXTINF:-1,Baahubali 2: The Conclusion
-http://iya.mba:8900/movie/resom/resom/2465.MP4
-#EXTINF:-1,Beauty and the Beast
-http://iya.mba:8900/movie/resom/resom/2466.MP4
-#EXTINF:-1,Big Hero 6
-http://iya.mba:8900/movie/resom/resom/2467.MP4
-#EXTINF:-1,Bohemian Rhapsody
-http://iya.mba:8900/movie/resom/resom/2468.MP4
-#EXTINF:-1,Coco
-http://iya.mba:8900/movie/resom/resom/2469.MP4
-#EXTINF:-1,Coldplay: A Head Full of Dreams
-http://iya.mba:8900/movie/resom/resom/2470.MP4
-#EXTINF:-1,Deadpool
-http://iya.mba:8900/movie/resom/resom/2471.MP4
-#EXTINF:-1,Doctor Strange (2016)
-http://iya.mba:8900/movie/resom/resom/2472.MP4
-#EXTINF:-1,Fantastic Beasts and Where to Find Them
-http://iya.mba:8900/movie/resom/resom/2473.MP4
-#EXTINF:-1,Free Solo
-http://iya.mba:8900/movie/resom/resom/2474.MP4
-#EXTINF:-1,Green Book
-http://iya.mba:8900/movie/resom/resom/2475.MP4
-#EXTINF:-1,Guardians of the Galaxy
-http://iya.mba:8900/movie/resom/resom/2476.MP4
-#EXTINF:-1,Guardians of the Galaxy Vol. 2
-http://iya.mba:8900/movie/resom/resom/2477.MP4
-#EXTINF:-1,Hacksaw Ridge
-http://iya.mba:8900/movie/resom/resom/2478.MP4
-#EXTINF:-1,Human (2015)
-http://iya.mba:8900/movie/resom/resom/2479.MP4
-#EXTINF:-1,Inside Out
-http://iya.mba:8900/movie/resom/resom/2480.MP4
-#EXTINF:-1,Jumanji: Welcome to the Jungle
-http://iya.mba:8900/movie/resom/resom/2481.MP4
-#EXTINF:-1,Jurassic World: Fallen Kingdom
-http://iya.mba:8900/movie/resom/resom/2482.MP4
-#EXTINF:-1,La La Land
-http://iya.mba:8900/movie/resom/resom/2483.MP4
-#EXTINF:-1,LION
-http://iya.mba:8900/movie/resom/resom/2484.MP4
-#EXTINF:-1,Logan
-http://iya.mba:8900/movie/resom/resom/2485.MP4
-#EXTINF:-1,Mad Max: Fury Road
-http://iya.mba:8900/movie/resom/resom/2486.MP4
-#EXTINF:-1,Maze Runner: The Death Cure
-http://iya.mba:8900/movie/resom/resom/2487.MP4
-#EXTINF:-1,Moana
-http://iya.mba:8900/movie/resom/resom/2488.MP4
-#EXTINF:-1,Mortal Engines
-http://iya.mba:8900/movie/resom/resom/2489.MP4
-#EXTINF:-1,Pacific Rim: Uprising
-http://iya.mba:8900/movie/resom/resom/2490.MP4
-#EXTINF:-1,Pirates of the Caribbean: Dead Men Tell No Tales
-http://iya.mba:8900/movie/resom/resom/2491.MP4
-#EXTINF:-1,Racing Extinction
-http://iya.mba:8900/movie/resom/resom/2492.MP4
-#EXTINF:-1,Raid (2018)
-http://iya.mba:8900/movie/resom/resom/2493.MP4
-#EXTINF:-1,Skyscraper
-http://iya.mba:8900/movie/resom/resom/2494.MP4
-#EXTINF:-1,Storks
-http://iya.mba:8900/movie/resom/resom/2495.MP4
-#EXTINF:-1,The Accountant
-http://iya.mba:8900/movie/resom/resom/2496.MP4
-#EXTINF:-1,The Boss Baby
-http://iya.mba:8900/movie/resom/resom/2497.MP4
-#EXTINF:-1,The Equalizer 2
-http://iya.mba:8900/movie/resom/resom/2498.MP4
-#EXTINF:-1,The Farthest
-http://iya.mba:8900/movie/resom/resom/2499.MP4
-#EXTINF:-1,The Fate of the Furious
-http://iya.mba:8900/movie/resom/resom/2500.MP4
-#EXTINF:-1,The Foreigner
-http://iya.mba:8900/movie/resom/resom/2501.MP4
-#EXTINF:-1,The Grand Budapest Hotel
-http://iya.mba:8900/movie/resom/resom/2502.MP4
-#EXTINF:-1,The Hobbit: The Battle of the Five Armies
-http://iya.mba:8900/movie/resom/resom/2503.MP4
-#EXTINF:-1,The Hunger Games: Mockingjay Part 1
-http://iya.mba:8900/movie/resom/resom/2504.MP4
-#EXTINF:-1,The Hunger Games: Mockingjay  Part 2
-http://iya.mba:8900/movie/resom/resom/2505.MP4
-#EXTINF:-1,The Magnificent Seven
-http://iya.mba:8900/movie/resom/resom/2506.MP4
-#EXTINF:-1,The Meg
-http://iya.mba:8900/movie/resom/resom/2507.MP4
-#EXTINF:-1,The Mummy
-http://iya.mba:8900/movie/resom/resom/2508.MP4
-#EXTINF:-1,The Raid 2
-http://iya.mba:8900/movie/resom/resom/2509.MP4
-#EXTINF:-1,The Revenant
-http://iya.mba:8900/movie/resom/resom/2510.MP4
-#EXTINF:-1,Thor: Ragnarok
-http://iya.mba:8900/movie/resom/resom/2511.MP4
-#EXTINF:-1,Thor: The Dark World
-http://iya.mba:8900/movie/resom/resom/2512.MP4
-#EXTINF:-1,Tomb Raider
-http://iya.mba:8900/movie/resom/resom/2513.MP4
-#EXTINF:-1,Transformers: The Last Knight
-http://iya.mba:8900/movie/resom/resom/2528.MP4
-#EXTINF:-1,War for the Planet of the Apes
-http://iya.mba:8900/movie/resom/resom/2529.MP4
-#EXTINF:-1,Whiplash
-http://iya.mba:8900/movie/resom/resom/2530.MP4
-#EXTINF:-1,Wonder Woman
-http://iya.mba:8900/movie/resom/resom/2531.MP4
-#EXTINF:-1,Aquaman
-http://iya.mba:8900/movie/resom/resom/2534.MP4
-#EXTINF:-1,Assassin's Creed
-http://iya.mba:8900/movie/resom/resom/2535.MP4
-#EXTINF:-1,Avengers: Age of Ultron
-http://iya.mba:8900/movie/resom/resom/2536.MP4
-#EXTINF:-1,Batman vs. Robin
-http://iya.mba:8900/movie/resom/resom/2537.MP4
-#EXTINF:-1,X-Men: Days of Future Past
-http://iya.mba:8900/movie/resom/resom/2532.MP4
-#EXTINF:-1,Zootopia
-http://iya.mba:8900/movie/resom/resom/2533.MP4
-#EXTINF:-1,Baywatch
-http://iya.mba:8900/movie/resom/resom/2538.MP4
-#EXTINF:-1,Bumblebee
-http://iya.mba:8900/movie/resom/resom/2539.MP4
-#EXTINF:-1,Captain America: Civil War
-http://iya.mba:8900/movie/resom/resom/2540.MP4
-#EXTINF:-1,Alien: Covenant
-http://iya.mba:8900/movie/resom/resom/2589.MP4
-#EXTINF:-1,Alpha
-http://iya.mba:8900/movie/resom/resom/2586.MP4
-#EXTINF:-1,Angel of Mine
-http://iya.mba:8900/movie/resom/resom/2590.MP4
-#EXTINF:-1,Arrival
-http://iya.mba:8900/movie/resom/resom/2587.MP4
-#EXTINF:-1,Assassin's Creed
-http://iya.mba:8900/movie/resom/resom/2588.MP4
-#EXTINF:-1,Baby Driver
-http://iya.mba:8900/movie/resom/resom/2585.MP4
-#EXTINF:-1,Beauty and the Beast (2017)
-http://iya.mba:8900/movie/resom/resom/2591.MP4
-#EXTINF:-1,Captain America: The Winter Soldier
-http://iya.mba:8900/movie/resom/resom/2592.MP4
-#EXTINF:-1,Cars 3
-http://iya.mba:8900/movie/resom/resom/2593.MP4
-#EXTINF:-1,Deepwater Horizon
-http://iya.mba:8900/movie/resom/resom/2594.MP4
-#EXTINF:-1,Den of Thieves
-http://iya.mba:8900/movie/resom/resom/2595.MP4
-#EXTINF:-1,Despicable Me 3
-http://iya.mba:8900/movie/resom/resom/2596.MP4
-#EXTINF:-1,Doctor Strange
-http://iya.mba:8900/movie/resom/resom/2597.MP4
-#EXTINF:-1,Dunkirk
-http://iya.mba:8900/movie/resom/resom/2598.MP4
-#EXTINF:-1,Ex Machina
-http://iya.mba:8900/movie/resom/resom/2599.MP4
-#EXTINF:-1,Fifty Shades Darker
-http://iya.mba:8900/movie/resom/resom/2600.MP4
-#EXTINF:-1,Fifty Shades Freed
-http://iya.mba:8900/movie/resom/resom/2601.MP4
-#EXTINF:-1,Ghost in the Shell
-http://iya.mba:8900/movie/resom/resom/2602.MP4
-#EXTINF:-1,Glass
-http://iya.mba:8900/movie/resom/resom/2603.MP4
-#EXTINF:-1,Incredibles 2
-http://iya.mba:8900/movie/resom/resom/2604.MP4
-#EXTINF:-1,Inferno
-http://iya.mba:8900/movie/resom/resom/2605.MP4
-#EXTINF:-1,Inside Out
-http://iya.mba:8900/movie/resom/resom/2606.MP4
-#EXTINF:-1,Insidious: The Last Key
-http://iya.mba:8900/movie/resom/resom/2607.MP4
