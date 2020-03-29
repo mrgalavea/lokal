@@ -1,32 +1,4 @@
  #EXTM3U
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADsddsZ34KHA2.jpg" group-title="RELIGI",AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/AD34ZsdKHA2.jpg" group-title="RELIGI",AL-IMAN TV
-http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/AsdDZK343HA2.jpg" group-title="RELIGI",SALAM TV
-http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADsdZKH343A2.jpg" group-title="RELIGI",NABAWI TV
-http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZsd3434KHA2.jpg" group-title="RELIGI",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZsdK343HA2.jpg" group-title="RELIGI",AL Bahjah
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZK343HA2.jpg" group-title="RELIGI",ADI TV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZK343HA2.jpg" group-title="RELIGI",MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
- #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZ3434KHA2.jpg" group-title="RELIGI",MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screen343shot-89.png" group-title="RELIGI",HADI TV
-http://38.96.175.40:1935/liveTrans//channel2_800k/chunklist_w1577145942.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screen343shot-89.png" group-title="RELIGI",TV 9 Nusantara
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screen343shot-89.png" group-title="RELIGI",TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screensh343343ot-89.png" group-title="RELIGI",TEGAR
-http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-34389.png" group-title="RELIGI",PULDAPIL
-http://178.128.121.192/hlsmobile/web.m3u8
 
 
 #EXTINF:-1 group-title="USEE TV",TRANS TV
