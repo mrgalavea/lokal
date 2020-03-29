@@ -17,15 +17,15 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
  #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwXd7yK/ADdZKHA2.jpg" group-title="RELIGI",MADINAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Scredenshot-89.png" group-title="RELIGI",HADI TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Scredenssdhot-89.png" group-title="RELIGI",HADI TV
 http://38.96.175.40:1935/liveTrans//channel2_800k/chunklist_w1577145942.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Scrdeendshot-89.png" group-title="RELIGI",TV 9 Nusantara
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Scrdeendsdshot-89.png" group-title="RELIGI",TV 9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Scrdeenshot-89.png" group-title="RELIGI",TAHFIDZ TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Scrdeensdshot-89.png" group-title="RELIGI",TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Scdreenshot-89.png" group-title="RELIGI",TEGAR
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Scdreensdshot-89.png" group-title="RELIGI",TEGAR
 http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screednshot-89.png" group-title="RELIGI",PULDAPIL
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screednsdshot-89.png" group-title="RELIGI",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
 
 
