@@ -104,7 +104,7 @@ https://livetvhooq.akamaized.net/d7236670539144e0a5df0b8fa7a0c5c1/ap-southeast-1
 #EXTINF:-1 group-title="INDONESIA PLUS",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w591695661_b1492000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA PLUS",METRO TV HD http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="INDONESIA PLUS",METRO TV HD 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 group-title="INDONESIA PLUS",METRO TV
@@ -416,31 +416,31 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1,Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:-1,group-title="NATGEO Fashion"ID ku
+#EXTINF:-1,NATGEO Fashion"ID ku
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560166~exp=9007200830301157~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=726790f4481ebf1b4f1270a236084230ba8eef1af78b75e6dbbf3909612e4d42
 
-#EXTINF:-1,group-title="NATGEO Fashion"Ruang Terampil
+#EXTINF:-1, NATGEO Fashion"Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
 
-#EXTINF:-1,group-title="NATGEO Fashion"Usee Photo
+#EXTINF:-1, NATGEO Fashion"Usee Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560124~exp=9007200830301115~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=df1895ab7d75062dab8c53f11031484962c78a4059232d5597b624d85ac3993a
 
-#EXTINF:-1,group-title="NATGEO Fashion"Usee Prime
+#EXTINF:-1, NATGEO Fashion"Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560046~exp=9007200830301037~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=63478ab3ea286fb358e2fdb6aceaf9bc19bb79dfcd13ecd3b820ca7eff0c19b7
 
-#EXTINF:-1,group-title="NATGEO Fashion"Red Bull Tv
+#EXTINF:-1, NATGEO Fashion"Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1,group-title="NATGEO Fashion"History 2
+#EXTINF:-1, NATGEO Fashion"History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
 
-#EXTINF:-1,group-title="NATGEO Fashion"Fashion TV Films
+#EXTINF:-1,NATGEO Fashion"Fashion TV Films
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1,group-title="NATGEO Fashion"Fashion TV Teens
+#EXTINF:-1, NATGEO Fashion"Fashion TV Teens
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1,group-title="NATGEO Fashion"Fashion TV Midnight
+#EXTINF:-1, NATGEO Fashion"Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
 #EXTINF:-1,Tahfizh Tv
